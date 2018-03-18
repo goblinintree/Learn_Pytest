@@ -22,6 +22,7 @@
     # git push -u origin master
 
 # 更新github
+
     # git add *
     # git commit -m "update"
     # git remote add origin git@github.com:goblinintree/Learn_Pytest.git
